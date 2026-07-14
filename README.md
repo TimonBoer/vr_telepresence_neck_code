@@ -1,6 +1,6 @@
 # VR Telepresence Neck Code
 
-The main ros node for the control (`ros_nodes/arduino_parallel_v2.ccp`) was already sent by Direk, I have added some comments before each class and have added a class overview (see `ros_nodes/arduino_parallel_classes_overview.png`). 
+The main ros node for the control (`ros_nodes/arduino_parallel_v2.cpp`) was already sent by Direk, I have added some comments before each class and have added a class overview (see `ros_nodes/arduino_parallel_classes_overview.png`). 
 
 Additionally some ros nodes and python scripts have been added that were used for debugging, data collection and calibration, along with the code for the arduino. 
 
